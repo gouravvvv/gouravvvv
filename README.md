@@ -1,4 +1,4 @@
-#Hi, I'm Gourav Dhiman.
+# Hi, I'm Gourav Dhiman.
 
 I’m a pre-fianl year undergraduate student at National Institute of Technology Hamirpur, Himachal Pradesh, currently pursuing my bachelor's degree in Electronics and Communication Engineering.
 
